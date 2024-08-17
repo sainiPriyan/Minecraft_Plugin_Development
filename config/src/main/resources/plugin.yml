@@ -1,0 +1,4 @@
+name: config
+version: '${project.version}'
+main: me.pingu.config.Configu
+api-version: '1.20'

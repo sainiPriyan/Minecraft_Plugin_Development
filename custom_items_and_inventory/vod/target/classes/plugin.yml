@@ -1,0 +1,13 @@
+name: vod
+version: '1.0-SNAPSHOT'
+main: me.pingu.vod.Vod
+api-version: '1.20'
+commands:
+  menu:
+    description: opens a menu
+    usage: /<command>
+
+  setevent:
+    description: set event location
+    usage: /<command>
+

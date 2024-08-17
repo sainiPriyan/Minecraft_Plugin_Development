@@ -1,0 +1,4 @@
+name: eventlisteners
+version: '${project.version}'
+main: me.pingu.eventlisteners.Eventlisteners
+api-version: '1.20'

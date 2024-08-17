@@ -1,0 +1,4 @@
+name: joinAndLeavePLugin
+version: '${project.version}'
+main: me.pingu.joinandleaveplugin.JoinAndLeavePLugin
+api-version: '1.20'

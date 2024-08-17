@@ -1,0 +1,23 @@
+name: fart
+version: '1.0-SNAPSHOT'
+main: me.pingu.fart.Fart
+api-version: '1.20'
+commands:
+  fart:
+    description: fart and kill
+    usage: /<command> <player>
+
+  enablefart:
+    description: enable fart command
+    usage: /<command>
+    permission: op
+
+  diablefart:
+    description: disable fart command
+    usage: /<command>
+    permission: op
+
+
+
+
+

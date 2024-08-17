@@ -1,0 +1,9 @@
+name: spawnPlugin
+version: '1.0-SNAPSHOT'
+main: me.pingu.spawnplugin.SpawnPlugin
+api-version: '1.20'
+commands:
+  home:
+    description: teleport to home
+  sethome:
+    description: set home

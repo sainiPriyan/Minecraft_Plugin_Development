@@ -1,0 +1,13 @@
+name: godcommand
+version: '${project.version}'
+main: me.pingu.godcommand.Godcommand
+api-version: '1.20'
+commands:
+  god:
+    description: become invincible
+    usage: /<command>
+    aliases:
+      - invincible
+      - invin
+      - pro
+

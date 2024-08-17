@@ -1,0 +1,4 @@
+name: config
+version: '1.0-SNAPSHOT'
+main: me.pingu.config.Configu
+api-version: '1.20'

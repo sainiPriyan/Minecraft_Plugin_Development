@@ -1,0 +1,4 @@
+name: dont_eat_cow
+version: '${project.version}'
+main: me.pingu.dont_eat_cow.Dont_eat_cow
+api-version: '1.20'

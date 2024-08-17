@@ -1,0 +1,11 @@
+name: commardArgsReal
+version: '1.0-SNAPSHOT'
+main: me.pingu.commardargsreal.CommardArgsReal
+api-version: '1.20'
+commands:
+  repeat:
+    description: repeat msg back to you
+    usage: /<command>
+    
+
+

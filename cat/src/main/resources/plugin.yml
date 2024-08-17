@@ -1,0 +1,10 @@
+name: cat
+version: '${project.version}'
+main: me.pingu.cat.Cat
+api-version: '1.20'
+commands:
+  cat:
+    description: spawns a cat
+    usage: /<command> <player>
+    permission: op
+

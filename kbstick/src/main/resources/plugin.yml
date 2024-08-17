@@ -1,0 +1,8 @@
+name: kbstick
+version: '${project.version}'
+main: me.pingu.kbstick.Kbstick
+api-version: '1.20'
+commands:
+  kbstick:
+    description: "yes"
+    usage: /<command>

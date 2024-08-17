@@ -1,0 +1,20 @@
+name: launch
+version: '${project.version}'
+main: me.pingu.launch.Launch
+api-version: '1.20'
+commands:
+  feed:
+    description: feed yourself
+    usage: /<command>
+    aliases:
+      - food
+      - eat
+  launch:
+    description: launch up in air
+    usage: /<command>
+    aliases:
+      - rocket
+      - up
+
+
+

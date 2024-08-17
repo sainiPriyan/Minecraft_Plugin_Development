@@ -1,0 +1,22 @@
+name: permissions
+version: '${project.version}'
+main: me.pingu.permissions.Permissions
+api-version: '1.20'
+commands:
+  test:
+    description: this is a test command
+    usage: /<command>
+
+permissions:
+  permissions.test:
+    description: Allow someone to run the /test command
+    default: not op
+    children:
+      permission.explode: true
+
+
+  permission.breakblock:
+    description: Allow someone to break blocks
+    default: op
+
+
